@@ -1,4 +1,4 @@
 ---
-title: Welcome to funk town. Destination, your maws house :sunglasses:
+SUPER AWESOME TITLE: Welcome to funk town. Destination, your maws house
 ---
 
